@@ -1,2 +1,2 @@
-# mspancholi.github.io-Responsive-Portfolio
-Second Week Responsive Homework
+# Responsive-Portfolio
+Second Week Homework
